@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "v1",
+  "released_at": "",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "ruban",
+    "description": "Internet-facing e-commerce web application where users can\nregister, authenticate, browse products, place orders, and\nmake payments through an external payment provider.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "system"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
